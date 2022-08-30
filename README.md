@@ -6,5 +6,8 @@ In this project, will be performing data cleansing, data manipulation and data a
 ## Objectives 
 Detailed end-to-end process of forecasting house price using ridge regression and lasso regression for modelling (including evaluation of the model)
 
+## Result
+For the result, please kindly check my source code!
+
 ## References :
 Source Data : https://www.kaggle.com/code/prasadperera/the-boston-housing-dataset/data
